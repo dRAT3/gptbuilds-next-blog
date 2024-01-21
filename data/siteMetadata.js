@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'admin@gptbuilds.io',
-  twitter: 'https://twitter.com/Twitter',
+  twitter: 'https://twitter.com/nan0ponk',
   youtube: 'https://youtube.com/nan0ponk',
   locale: 'en-US',
   analytics: {
